@@ -1,0 +1,12 @@
+.bar {
+  position: absolute;
+  top: 256px;
+  left: 128px;
+  width: 256px;
+  height: 64px;
+  background: red;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

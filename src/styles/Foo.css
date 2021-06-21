@@ -1,0 +1,13 @@
+.foo {
+  position: absolute;
+  top: 128px;
+  left: 128px;
+  width: 256px;
+  height: 64px;
+  background: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
